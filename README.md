@@ -1,2 +1,2 @@
 ## ˚˖𓍢ִ໋❀
-![Snake Animation](https://raw.githubusercontent.com/Mushercake/Pastel-de-musher/snake-output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Mushercake/Mushercake/output/github-contribution-grid-snake.svg)
