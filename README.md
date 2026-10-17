@@ -1,2 +1,2 @@
 ## ˚˖𓍢ִ໋❀
-<img data-importer="snake" src="https://raw.githubusercontent.com/Mushercake/Mushercake/snake-output/snake.svg" alt="Snake animation" />###
+![Snake Animation](https://raw.githubusercontent.com/Mushercake/Pastel-de-musher/snake-output/snake.svg)
